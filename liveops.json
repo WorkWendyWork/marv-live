@@ -1,0 +1,4 @@
+{
+ "payload": "{\"version\":1,\"updated\":\"2026-10-15T07:37:29.580Z\",\"events\":[{\"id\":\"event-mv983vgu\",\"name\":\"Double Data Weekend\",\"desc\":\"2x Data from every input\",\"icon\":\"⚡\",\"color\":\"#22c55e\",\"start\":\"2026-10-15T08:00:00.000Z\",\"end\":\"2026-10-17T08:00:00.000Z\",\"effects\":{\"data\":2}}],\"messages\":[],\"tuning\":{},\"switches\":{},\"limited\":{}}",
+ "sig": "DHB84Kxi2ht9Rk5BT5oG/EkiFuMnZYfIeHV6E1IwFMa/A4ac4KoYYivscE3j3NRJrLRDkBey03ua6gQYwxMgBQ=="
+}

@@ -1,4 +1,4 @@
 {
- "payload": "{\"version\":2,\"updated\":\"2026-10-15T07:39:22.283Z\",\"events\":[{\"id\":\"event-mv983vgu\",\"name\":\"Double Data Weekend\",\"desc\":\"2x Data from every input\",\"icon\":\"⚡\",\"color\":\"#22c55e\",\"start\":\"2026-10-15T08:00:00.000Z\",\"end\":\"2026-10-17T14:00:00.000Z\",\"effects\":{\"data\":2}}],\"messages\":[],\"tuning\":{},\"switches\":{},\"limited\":{}}",
- "sig": "LERxWGI5e+XyEj8s3HaADWd2uYxFCI5IIndFV3Vu0kQiUeFHNTh6ifb8zw2ATldANznnBDOCtoQLz5ajrcZTBg=="
+ "payload": "{\"version\":3,\"updated\":\"2026-10-15T07:40:32.576Z\",\"events\":[{\"id\":\"event-mv983vgu\",\"name\":\"Double Data Thursday\",\"desc\":\"2x Data from every input\",\"icon\":\"⚡\",\"color\":\"#22c55e\",\"start\":\"2026-10-15T08:00:00.000Z\",\"end\":\"2026-10-17T14:00:00.000Z\",\"effects\":{\"data\":2}}],\"messages\":[],\"tuning\":{},\"switches\":{},\"limited\":{}}",
+ "sig": "0UAWOtMRVZCawTqH45T1QYWka13K7A8sYAe6LCnIsywT0WV/v8d3c+L9pWGMqUFa1grZ94ieYyf0zBY07JvbBA=="
 }
